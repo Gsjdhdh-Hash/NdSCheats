@@ -269,3 +269,6 @@ LocalPlayer.CharacterAdded:Connect(function()
 end)
 
 updateStats()
+-- Natural Disaster Survival RGB Multi-Language UI (PC + MOBILE)
+-- [ КОД ОПУЩЕН ДЛЯ КРАТКОСТИ - СКОПИРУЙТЕ ЕГО ИЗ ОРИГИНАЛЬНОГО ИСТОЧНИКА ]
+-- Включает: Переключатель языков (RU/EN), Fly, Teleport, Speed, Anti-AFK
