@@ -40,3 +40,11 @@ console.log(
 );
 
 }
+
+├── index.html
+├── game.html
+├── style.css
+├── game.js
+├── upgrades.js
+├── cars.js
+└── manifest.json
