@@ -1,0 +1,42 @@
+let playerCar = {
+
+name:"Sports Car",
+
+skin:"Flame",
+
+engine:1,
+
+armor:1,
+
+tires:1,
+
+suspension:1
+
+};
+
+
+function upgrade(part){
+
+if(playerCar[part] < 5){
+
+playerCar[part]++;
+
+console.log(
+part + " upgraded!"
+);
+
+}
+
+}
+
+
+
+function changeSkin(newSkin){
+
+playerCar.skin = newSkin;
+
+console.log(
+"Skin changed to " + newSkin
+);
+
+}
